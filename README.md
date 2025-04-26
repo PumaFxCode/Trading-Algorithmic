@@ -1,7 +1,7 @@
 # Trading-Algorithmic
 Trading algorithmic resources repository
 
-Repos:
+`Repos`:
 
 https://github.com/paperswithbacktest/awesome-systematic-trading
 
